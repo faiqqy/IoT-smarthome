@@ -12,13 +12,31 @@ smarthome ini menggunakan PIR untuk mendeteksi jumlah orang, bila ada orang yang
 
 ![ini Flowchart Smarthom IoT](./src/Rangkaian.jpg "FlowChart Smarthom IoT")
 
+## Prerequisite
+__Komponen Yang digunakan:__
+- DHT11
+- sensor PIR 2
+- Motor Servo 180° (LF20MG) 
+- lampu
+- Kipas PC 12V
+- Motor Driver l298n
+- step down LM2596
+- Power Supply 12VDC 5A
+- ESP32
 
-## Instalisasi
-Pemograman dilakukan menggunakan Arduino Ide   
-__Library external yang digunakan :__   
+__Software yang digunakan:__
+- node-red
+- Arduino Ide
+
+__Library external Arduino IDE yang digunakan:__
  - __MQTT__ by Joel Gaehwiler
  - __Adafruit Unified__ Sensor by Adafruit
  - __ESP32Servo__ by Kevin Harrington
+
+
+## Instalisasi
+
+
  
  
 
