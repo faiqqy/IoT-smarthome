@@ -35,14 +35,16 @@ __Library external Arduino IDE yang digunakan:__
 
 
 ## Instalisasi
-
-
- 
- 
+- Sambungkan kompenen sesuai dengan rangkaian diatas
+- Program ESP32 menggunakan kode yang ada di direktori __smarthomeIot__
+- Pastikan Library external sudah terinstal
 
 ## Usage
 - buka node red dengan menjalankan comand berikut, pada Direktori utama:
   ```
   npx node-red -u .\node-red
   ```
-- lalu buka website local host dengan port 1880 (default):
+- lalu buka website local host dengan port 1880 (default), sebagai berikut:
+  ```
+  http://127.0.0.1:1880/ui
+  ```
