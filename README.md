@@ -3,7 +3,7 @@
 Ini adalah repository iot smarthome.   
 smarthome ini menggunakan PIR untuk mendeteksi jumlah orang, bila ada orang yang masuk maka sitem akan menyala bila tidak orang maka sistem mati otomatis. sistem menggunakan kipas dan lampu sebagai outputnya. Selain itu smarthome juga dapat dikontrol dan dimonitoring dari jarak jauh. menggunakan node red dan mqtt sebagai perantara.    
 
-## Flowchart
+## Cara Kerja
 
 ![ini Flowchart Smarthom IoT](./src/FlowCharts.jpg "FlowChart Smarthom IoT")
 
