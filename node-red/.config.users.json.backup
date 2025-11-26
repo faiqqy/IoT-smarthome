@@ -10,7 +10,8 @@
                 "view-node-status": true,
                 "view-node-show-label": true,
                 "view-show-tips": false,
-                "view-show-welcome-tours": true
+                "view-show-welcome-tours": true,
+                "view-node-info-icon": true
             },
             "tours": {
                 "welcome": "4.0.9"
@@ -18,7 +19,7 @@
             "dialog": {
                 "export": {
                     "pretty": true,
-                    "json-view": false
+                    "json-view": true
                 }
             }
         }
