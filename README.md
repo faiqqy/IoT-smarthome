@@ -5,12 +5,12 @@ smarthome ini menggunakan PIR untuk mendeteksi jumlah orang, bila ada orang yang
 
 ## Flowchart
 
-![ini Flowchart Smarthom IoT](./src/FlowChart.jpg "FlowChart Smarthom IoT")
+![ini Flowchart Smarthom IoT](./src/FlowCharts.jpg "FlowChart Smarthom IoT")
 
 
 ## Rangkaian
 
-![ini Flowchart Smarthom IoT](./src/Rangkaian.jpg "FlowChart Smarthom IoT")
+![ini Rangkaian Smarthom IoT](./src/Rangkaian.jpg "Rangkaian Smarthom IoT")
 
 ## Prerequisite
 __Komponen Yang digunakan:__
